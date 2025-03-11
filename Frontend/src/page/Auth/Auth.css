@@ -1,0 +1,12 @@
+.authContainer{
+    background-image: url("https://w0.peakpx.com/wallpaper/481/31/HD-wallpaper-bitcoin-concepts-bitcoin-gold-coin-cryptocurrency-concepts-bitcoin-finance-concepts-business.jpg");
+    height: 100Vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bgBlure{
+    backdrop-filter: blur(10px);
+}
